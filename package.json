@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-spinedit",
+  "version": "0.0.1",
+  "description": "fork of the geersch/bootstrap-spinedit",
+  "main": "js/bootstrap-spinedit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabLeRoux/bootstrap-spinedit.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "spinedit"
+  ],
+  "author": "Gabriel Le Breton",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/GabLeRoux/bootstrap-spinedit/issues"
+  },
+  "homepage": "https://github.com/GabLeRoux/bootstrap-spinedit#readme"
+}
